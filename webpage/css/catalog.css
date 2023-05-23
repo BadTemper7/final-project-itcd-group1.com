@@ -1,0 +1,93 @@
+*{
+    
+}
+.content2{
+    width: 1800px;
+    padding: 5px;
+    border: 10px;
+    margin-top: 70px;
+    margin-bottom: 90px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;   
+    font-family: sans-serif;
+    height: 750px;
+    align-items: center;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    align-items: center;
+    top: 100px;
+}
+
+.card{
+    margin: 50px;
+    overflow: hidden;
+   border-radius: 50%;
+    
+}
+
+.card img{
+    width: 350px;
+    height: 250px;
+    border-radius: 3px;
+    transition: .5s;
+
+
+}
+
+
+.card:hover{
+    cursor: pointer;
+}
+
+
+
+.bayani{
+    position: absolute;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 30px;
+    left: 180px;
+    top: 53%;
+}
+
+.arkeolohikal{
+    position: absolute;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 30px;
+    left: 480px;
+    top: 53%;
+}
+
+.kultura{
+    position: absolute;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 30px;
+    left: 890px;
+    top: 53%;
+}
+
+.yaman{
+    position: absolute;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 30px;
+    left: 1200px;
+    top: 53%;
+}
+
+.history{
+    position: absolute;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 30px;
+    left: 1520px;
+    top: 53%;
+}
+

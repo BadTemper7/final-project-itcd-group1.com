@@ -1,0 +1,21 @@
+.description2{
+    position: absolute;
+    
+    top: 15%;
+    left: 5%;
+    right: 5%;
+    font-size: 22px;
+    color: black;
+    font-family: sans-serif;
+    padding: 50px 50px 50px 50px;
+    padding-right: 500px;
+    border-radius: 10px;
+    width: 650px;
+
+}
+
+iframe{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 100px;
+}
